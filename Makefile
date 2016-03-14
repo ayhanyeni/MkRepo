@@ -44,3 +44,5 @@ distclean:
 	del /Q $(SRCDIR)\*.c
 	del /Q $(INCDIR)\*.h
 	del /Q $(OUTDIR1)\*.o
+	
+	deneme
